@@ -1,6 +1,7 @@
 # PeroidicTable-RESTAPI-Django
 
 Peroidic Table REST API with Django
+** Some Thai translation maybe wrong
 
 ## Installation
 
